@@ -5,6 +5,7 @@ bool funzione(char a[10][20],char b[], int &p){
             if(a[i][j] != b[j]){
                 j=20;
             }
+            
             else{
                 if(j==19){
                     p = i;
