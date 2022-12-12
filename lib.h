@@ -1,2 +1,2 @@
 
-bool cerca(char [10][20], char[], int &);
+bool funzione(char [10][20], char[], int &);
