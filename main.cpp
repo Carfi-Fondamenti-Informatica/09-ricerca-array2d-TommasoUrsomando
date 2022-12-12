@@ -10,6 +10,7 @@ int main() {
             b[j]=' ';
         }
     }
+    
     for(int i=0; i<10; i++){
         cin >> a[i];
     }
