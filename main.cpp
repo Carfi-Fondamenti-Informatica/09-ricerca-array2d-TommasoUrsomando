@@ -1,5 +1,6 @@
 #include <iostream>
 #include "lib.h"
+using namespace std;
 int main() {
     char a[10][20];
     char b[20];
